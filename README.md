@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif)]
 <h1 align="center">Hi 👋, I'm MUSA CHIRIMWAMI Gloire (demo8)</h1>
-<h3 align="center">A passionate frontend developer and Data Science</h3>
+<h3 align="center">A passionate Backend developer and Data Science</h3>
 <img src="https://imgbin.com/png/ZcEgvKGD/functional-programming-in-python-computer-programming-programming-language-python-programming-practice-workshop-png
 t" alt="demogloire" />
 
